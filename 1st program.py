@@ -1,7 +1,5 @@
-name = "Hashir"
-age = 20
-gender = "Male"
-
-print (name)
-print(age)
-print(gender)
+print ("Introduction of Python")
+print ("Pyhton is considered as the easier laguage to learn. \nIts a good language to learn as a beginner and it gives u an advantage to print code directly")
+print ("Its useful in future fields i.e Ai engineer and software engineer etc uses it.")
+print ("It have a huge community many professionals use it due to which u can learn it from \nyoutube free of cost.It have ready-mode tools like Numpy,panda,matplotlib and tensorflow.")
+print("And it have great career opportunities.")
